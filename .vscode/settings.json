@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/3d45449c-e5b9-4020-a637-6918d0561e14/resourceGroups/gn-prep/providers/Microsoft.Web/sites/oisins-ecommerce2",
+  "appService.deploySubpath": "."
+}
